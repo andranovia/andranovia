@@ -10,16 +10,11 @@
 
 - ✨ My Latest Obsession **I'm diving deep into the fascinating world of Three.js. It's mind-blowing!**
 
-- 🆘 In Search of Heroes for [My Portfolio -- Need your expertise to take it to the next level!](https://github.com/andranovia/My-Portfolio-App)
-
 - 👨‍💻 Discover My Digital Playground [https://github.com/andranovia/My-Portfolio-App](https://github.com/andranovia/My-Portfolio-App)
 
 - 💡 The Scoop on What I Know **I'm your go-to person for anything related to React and the art of animation with Framer-motion.**
 
 - 📬 Drop Me a Line **Reach out anytime at yeromrenandra07@gmail.com. Let's chat, connect, and share our thoughts.**
-
-- ⚡ Fun fact **I like to believe that I'm the life of the party and my pun game is strong. 😄**
-
 
 
 <h3 align="left">Languages</h3>
