@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andranovia&label=Profile%20views&color=0e75b6&style=flat" alt="andranovia" /> </p>
 
-- 🚀 What's on My Plate Right Now ? [I'm pouring my heart into NOIRYTHM, and it's shaping up to be something amazing!](https://github.com/andranovia/nextJs-Laravel-Ecommerce)
+- 🚀 What's on My Plate Right Now ? [I'm pouring my heart into SMKNUSA, and it's shaping up to be something amazing!](https://github.com/andranovia/smknusa-frontend)
 
 - ✨ My Latest Obsession **I'm diving deep into the fascinating world of Three.js. It's mind-blowing!**
 
-- 👨‍💻 Discover My Digital Playground [https://github.com/andranovia/My-Portfolio-App](https://github.com/andranovia/My-Portfolio-App)
+- 👨‍💻 Discover My Digital Playground [https://github.com/andranovia/My-Portfolio](https://github.com/andranovia/andranovia-portfolio).
 
 - 💡 The Scoop on What I Know **I'm your go-to person for anything related to React and the art of animation with Framer-motion.**
 
